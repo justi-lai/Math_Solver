@@ -1,0 +1,6 @@
+Operation,Description,Sympy Representation
+Addition,Combining two numbers to get their total,"a + b"
+Subtraction,Finding the difference between two numbers,"a - b"
+Multiplication,Calculating the product of two numbers,"a * b"
+Division,Dividing one number by another,"a / b"
+Exponentiation,Raising one number to the power of another,"a ** b"
